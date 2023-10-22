@@ -1,0 +1,26 @@
+{
+  "name": "joellasappointmentbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hxmerx/JoellaAppointmentBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hxmerx/JoellaAppointmentBook/issues"
+  },
+  "homepage": "https://github.com/Hxmerx/JoellaAppointmentBook#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
